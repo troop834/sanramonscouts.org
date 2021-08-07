@@ -1,0 +1,35 @@
+baseURL: https://sanramonscouts.org/
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - robotsTXT
+  - '404'
+defaultContentLanguage: en
+languageCode: en-us
+theme: hpl
+title: 'San Ramon Scouts'
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
+params:
+  copyright: '&copy; 2021 Troop 834'
+  description: San Ramon Scouts
+  # favicon: images/favicon.png
+  # images:
+  #   - images/share-image.png
+  title: 'San Ramon Scouts'
+  meta:
+    keywords:
+      - Boy Scouts
+      - BSA
+      - Scouts
+      - outdoors
+      - camping
+      - backpacking
+      - adventure
+      - Wolfeboro
+      - fun
