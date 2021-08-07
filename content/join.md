@@ -1,6 +1,6 @@
 ---
 
-title: "Join Troop 834!"
+title: "Join Boy Scout Troop 834!"
 description: "San Ramon Boy Scout Troop 834 is a truly boy-led troop focused on outdoor activities such as hiking, backpacking, canoeing, and camping.  Come join 'The Shack'!"
 
 header_brand: "Join Troop 834!"
