@@ -2,6 +2,7 @@
 
 title: "Join Boy Scout Troop 834!"
 description: "San Ramon Boy Scout Troop 834 is a truly boy-led troop focused on outdoor activities such as hiking, backpacking, canoeing, and camping.  Come join 'The Shack'!"
+date: 2021-08-10T15:47:57-07:00
 
 header_brand: "Join Troop 834!"
 header_tagline_paragraph: "[San Ramon Boy Scout Troop 834](https://bsatroop834.org) is a truly boy-led troop with a focus on outdoor activities such as hiking, backpacking, canoeing, snow skiing and camping. We are one of the few troops in the area that has its own meeting space, affectionately known as “The Shack”, complete with patrol meeting rooms, plenty of storage for troop gear, and lots of outdoor space. Our meetings are held on Tuesday nights. We currently use a combination of outdoor and Zoom meetings to remain COVID-safe and to be supportive of ALL of our families. Please watch this video to get a feel for Troop 834 and then read more below to find out how to join."
@@ -23,17 +24,18 @@ aliases:
 <video alt="Slideshow of pictures from Troop 834 outings and activities"
        controls
        controlslist="nodownload"
-       poster="/images/slideshow-thumb.png" >
-	<source src="/videos/slideshow.webm" type="video/webm">
-	<source src="/videos/slideshow.mp4" type="video/mp4">
+       poster="slideshow-thumb.png" >
+	<source src="slideshow.webm" type="video/webm">
+	<source src="slideshow.mp4" type="video/mp4">
 	Your browser does not support HTML5 videos.
 </video>
 
-# Ready to join?
+# Want to Check Us Out?
 
-For more information about how to join San Ramon Boy Scout Troop 834 or to find
-out about recruiting events, visit our [Troop website](bsatroop834.org) or
-email newscout@bsatroop834.org.
+To find out more about our recruiting events, visit our
+[Recruiting Events]({{< relref "/recruiting-events/index.md" >}}) Page. Or, for more
+information about how to join San Ramon Boy Scout Troop 834, email
+newscout@bsatroop834.org.
 
 # Still thinking?  Here’s How Troop 834 Is Different From Other Troops:
 
@@ -65,6 +67,6 @@ email newscout@bsatroop834.org.
 
 <br>
 <div id="gallery">
-{{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
-{{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
+{{< figure alt="Scouts learning to paddle standing next to their canoes" src="paddle-training.jpg" title="Paddle training" >}}
+{{< figure alt="Scouts canoeing on a lake" src="canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
 </div>
