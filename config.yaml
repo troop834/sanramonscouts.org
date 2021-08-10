@@ -13,7 +13,7 @@ title: 'San Ramon Scouts'
 markup:
   goldmark:
     renderer:
-      hardWraps: true
+      hardWraps: false
       unsafe: true
 params:
   copyright: '&copy; 2021 Troop 834'
