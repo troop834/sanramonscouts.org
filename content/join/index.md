@@ -33,11 +33,11 @@ aliases:
 # Want to Check Us Out?
 
 To find out more about our recruiting events, visit our
-[Recruiting Events]({{< relref "/recruiting-events/index.md" >}}) Page. Or, for more
+[Recruiting Events]({{< relref "/recruiting-events/index.md" >}}) page. Or, for more
 information about how to join San Ramon Boy Scout Troop 834, email
 newscout@bsatroop834.org.
 
-# Still thinking?  Here’s How Troop 834 Is Different From Other Troops:
+# Still Thinking?  Here’s How Troop 834 Is Different From Other Troops:
 
 * Scout-led…The scouts elect their leaders and these leaders, not the adults, decide what to do at meetings and what trips to take during monthly patrol leader council (PLC) meetings.  Scouts learn group dynamics and leadership through the rigors of outdoor adventures.  A Senior Patrol Leader is elected by the entire troop for a six-month term.
 * Adult-mentored…The Assistant Scoutmaster Corps includes 12 fully-trained adults with a combined scouting experience of more than 100 years!  Every ASM is Youth Protection Trained; we follow these rules fully.  Our ASMs take training in Wilderness First Aid, Safe Swim Defense and Safety Afloat.  Assuring the scouts’ safety is the adult scouters’ primary responsibility.
