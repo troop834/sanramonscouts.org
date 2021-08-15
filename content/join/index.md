@@ -25,7 +25,6 @@ aliases:
        controls
        controlslist="nodownload"
        poster="slideshow-thumb.png" >
-	<source src="slideshow.webm" type="video/webm">
 	<source src="slideshow.mp4" type="video/mp4">
 	Your browser does not support HTML5 videos.
 </video>
