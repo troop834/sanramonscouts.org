@@ -10,6 +10,7 @@ defaultContentLanguage: en
 languageCode: en-us
 theme: hpl
 title: 'San Ramon Scouts'
+env: production
 markup:
   goldmark:
     renderer:
