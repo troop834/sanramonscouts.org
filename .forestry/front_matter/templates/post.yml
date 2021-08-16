@@ -1,0 +1,44 @@
+---
+label: Post
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
+  description: Page title. This title is metadata; it shows up in the browser tab
+    area and in search engines, but is not part of the page's content. To set the
+    title displayed in the page's content, use the <strong><em>Header title</em></strong>
+    field.
+- type: textarea
+  name: description
+  label: Description
+  description: Post description. This field is metadata only; it shows up in search
+    engines, but is not part of the page's content.
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  description: Post creation date
+  config:
+    required: true
+  default: now
+- type: text
+  name: header_brand
+  hidden: false
+  label: Header title
+  description: Title that gets displayed on the page
+  config:
+    required: true
+- type: textarea
+  name: header_tagline_paragraph
+  label: Header subtitle
+  description: Subtitle paragraph that gets displayed below the page title
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
