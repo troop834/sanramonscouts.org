@@ -95,3 +95,7 @@ ol, ul {
 li {
 	margin-left: 2em;
 }
+
+div#header-inner-wrapper {
+	padding-top: 0;
+}
