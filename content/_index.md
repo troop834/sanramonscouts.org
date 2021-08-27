@@ -10,4 +10,4 @@ header_tagline_paragraph: "    "
 ---
 <table col=2> <tr><td><a href="/join"><img src="troop834.png"></a></td> <td><h2>Looking for more information about San Ramon Boy Scout Troop 834? <a href="/join">Click here.</a></h2></td> </tr>
 
-<tr> <td><a href="/tree-recycling:><img src="/treerecycling.jpg"></a></td><td><h2>Looking for information about our Christmas Tree Recycling Program? <a href="/tree-recycling">Click here.</a></h2></td></tr> </table>
+<tr> <td><a href="/tree-recycling"><img src="/treerecycling.jpg" height="3em" width="2em"></a></td><td><h2>Looking for information about our Christmas Tree Recycling Program? <a href="/tree-recycling">Click here.</a></h2></td></tr> </table>
