@@ -8,6 +8,44 @@ header_brand: Welcome to San Ramon Scouts!
 header_tagline_paragraph: "    "
 
 ---
-<table col=2> <tr><td><a href="/join"><img src="troop834.png"></a></td> <td><h2>Looking for more information about San Ramon Boy Scout Troop 834? <a href="/join">Click here.</a></h2></td> </tr>
 
-<tr> <td><a href="/tree-recycling"><img src="/treerecycling.jpg" height="3em" width="2em"></a></td><td><h2>Looking for information about our Christmas Tree Recycling Program? <a href="/tree-recycling">Click here.</a></h2></td></tr> </table>
+<style>
+#mainbox {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.rowfb {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.rowfb > img {
+	height: 9em;
+}
+
+.rowfb > span {
+	padding: 2em;
+	font-size: 20pt;
+}
+</style>
+
+<div id="mainbox">
+	<div class="rowfb">
+		<img src="/images/troop834.png" alt="Troop 834 logo"></img>
+		<span>
+			Looking for more information about San Ramon Boy Scout Troop 834?
+			<a href="{{< ref "/join/index.md" >}}">Click here</a>.
+		</span>
+	</div>
+	<div class="rowfb">
+		<span>
+			Looking for information about our Christmas Tree Recycling Program?
+			<a href="{{< ref "/tree-recycling/index.md" >}}">Click here</a>.
+		</span>
+		<img src="/images/treerecycling.jpg" alt="Troop 834 logo"></img>
+	</div>
+</div>
