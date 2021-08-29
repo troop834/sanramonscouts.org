@@ -1,40 +1,48 @@
 ---
-
-title: "Join Boy Scout Troop 834!"
-description: "San Ramon Boy Scout Troop 834 is a truly boy-led troop focused on outdoor activities such as hiking, backpacking, canoeing, and camping.  Come join 'The Shack'!"
-date: 2021-08-10T15:47:57-07:00
-
-header_brand: "Join Troop 834!"
-header_tagline_paragraph: "[San Ramon Boy Scout Troop 834](https://bsatroop834.org) is a truly boy-led troop with a focus on outdoor activities such as hiking, backpacking, canoeing, snow skiing and camping. We are one of the few troops in the area that has its own meeting space, affectionately known as “The Shack”, complete with patrol meeting rooms, plenty of storage for troop gear, and lots of outdoor space. Our meetings are held on Tuesday nights. We currently use a combination of outdoor and Zoom meetings to remain COVID-safe and to be supportive of ALL of our families. Please watch this video to get a feel for Troop 834 and then read more below to find out how to join."
-
+title: Join Boy Scout Troop 834!
+description: San Ramon Boy Scout Troop 834 is a truly boy-led troop focused on outdoor
+  activities such as hiking, backpacking, canoeing, and camping.  Come join 'The Shack'!
+date: 2021-08-10T15:47:57.000-07:00
+header_brand: Join Troop 834!
+header_tagline_paragraph: "[San Ramon Boy Scout Troop 834](https://bsatroop834.org)
+  is a truly boy-led troop with a focus on outdoor activities such as hiking, backpacking,
+  canoeing, snow skiing and camping. We are one of the few troops in the area that
+  has its own meeting space, affectionately known as “The Shack”, complete with patrol
+  meeting rooms, plenty of storage for troop gear, and lots of outdoor space. Our
+  meetings are held on Tuesday nights. We currently use a combination of outdoor and
+  Zoom meetings to remain COVID-safe and to be supportive of ALL of our families.
+  Please watch this video to get a feel for Troop 834 and then read more below to
+  find out how to join."
 meta:
   keywords:
-    - Boy Scouts
-    - troop
-    - San Ramon
-    - Scouts
-    - BSA
-    - outdoor
-
+  - Boy Scouts
+  - troop
+  - San Ramon
+  - Scouts
+  - BSA
+  - outdoor
 aliases:
-  - /join-troop-834/
+- "/join-troop-834/"
 
 ---
-
 <video alt="Slideshow of pictures from Troop 834 outings and activities"
-       controls
-       controlslist="nodownload"
-       poster="slideshow-thumb.png" >
-	<source src="slideshow.mp4" type="video/mp4">
-	Your browser does not support HTML5 videos.
+controls
+controlslist="nodownload"
+poster="slideshow-thumb.png" >
+<source src="slideshow.mp4" type="video/mp4">
+Your browser does not support HTML5 videos.
 </video>
 
-# Want to Check Us Out?
+# Recruiting Events and Permission Slip
 
 To find out more about our recruiting events, visit our
 [Recruiting Events]({{< relref "/recruiting-events/index.md" >}}) page. Or, for more
 information about how to join San Ramon Boy Scout Troop 834, email
 newscout@bsatroop834.org.
+
+### Permission Slip
+
+If you would like to come to see us, please bring this completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) with you.
 
 # Still Thinking?  Here’s How Troop 834 Is Different From Other Troops:
 
@@ -47,20 +55,20 @@ newscout@bsatroop834.org.
 * Friday Nights – Our scouts want to hang out even outside of troop meetings.  We host Friday Night Minecraft Nights online and we’re hoping to get back to hosting our Friday Nights at The Shack where we hang out, play games, and just have fun – no scouting required.
 
 <style>
-#gallery {
-	display:flex;
-	flex-direction:row;
+\#gallery {
+display:flex;
+flex-direction:row;
 }
-#gallery figure {
-	margin: 8px;
-	text-align: center;
+\#gallery figure {
+margin: 8px;
+text-align: center;
 }
-#gallery figcaption {
-	margin-top: 0.5em;
+\#gallery figcaption {
+margin-top: 0.5em;
 }
-#gallery figcaption h4 {
-	margin-top: 0;
-	font-weight: bold;
+\#gallery figcaption h4 {
+margin-top: 0;
+font-weight: bold;
 }
 </style>
 
