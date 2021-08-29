@@ -1,20 +1,18 @@
 ---
-
-title: "Troop 834 2021 Recruiting Events"
-date: 2021-08-10T15:47:57-07:00
-
-header_brand: "Troop 834<br>2021 Recruiting Events"
-header_tagline_paragraph: "We welcome new scouts at any time! There is no recruiting deadline and previous scouting experience is not required."
+title: Troop 834 2021 Recruiting Events
+date: 2021-08-10T15:47:57.000-07:00
+header_brand: Troop 834<br>2021 Recruiting Events
+header_tagline_paragraph: We welcome new scouts at any time! There is no recruiting
+  deadline and previous scouting experience is not required.
 
 ---
-
 <h1 id="come-check-us-out" style="font-weight:normal;">Come check us out!</h1>
 
 ## Regular Meetings
 
 You are always welcome to check out our regular troop meetings from 7:00-8:30
 PM on Tuesdays. Just be sure to email and let us know when you'd like to come!
-Some meetings/events are ***not*** held at the Shack so please do contact us before
+Some meetings/events are **_not_** held at the Shack so please do contact us before
 coming out so that we can let you know if we will be there. Your parents are
 welcome to visit as well!
 
@@ -31,6 +29,10 @@ This Fall, we also have **special meetings** planned for new boys to check out T
 
 If you would like to come to one of the above meetings, please bring this
 completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) with you.
+
+## Parents
+
+Please note that a parent must stay with a potential scout when you come to check out one of our meetings or recruiting events.  Once you are officially a member of the troop, your parents can drop you off and pick you up without staying for the whole event.
 
 ## Location and Directions
 
