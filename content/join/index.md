@@ -44,7 +44,7 @@ newscout@bsatroop834.org.
 
 If you would like to come to see us, please bring this completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) (and a parent!) with you.
 
-# Still Thinking?  Here’s How Troop 834 Is Different From Other Troops:
+# Here’s How Troop 834 Is Different From Other Troops:
 
 * Scout-led…The scouts elect their leaders and these leaders, not the adults, decide what to do at meetings and what trips to take during monthly patrol leader council (PLC) meetings.  Scouts learn group dynamics and leadership through the rigors of outdoor adventures.  A Senior Patrol Leader is elected by the entire troop for a six-month term.
 * Adult-mentored…The Assistant Scoutmaster Corps includes 12 fully-trained adults with a combined scouting experience of more than 100 years!  Every ASM is Youth Protection Trained; we follow these rules fully.  Our ASMs take training in Wilderness First Aid, Safe Swim Defense and Safety Afloat.  Assuring the scouts’ safety is the adult scouters’ primary responsibility.
