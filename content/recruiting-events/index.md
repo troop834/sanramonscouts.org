@@ -32,7 +32,7 @@ completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pd
 
 ## Parents
 
-A parent must stay with a potential scout when you come to check out one of our meetings or recruiting events.  Once you are officially a member of the troop, your parents can drop you off and pick you up without staying for the whole event.
+A parent must stay with a potential scout when you come to check out one of our meetings or recruiting events.  Once you are officially a member of the troop, your parents can drop you off and pick you up without staying for the whole event.  Until then, they must attend all troop events with you.
 
 ## Location and Directions
 
