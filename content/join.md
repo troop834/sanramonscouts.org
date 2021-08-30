@@ -25,12 +25,12 @@ aliases:
 - "/join-troop-834/"
 
 ---
+
 <video alt="Slideshow of pictures from Troop 834 outings and activities"
-controls
-controlslist="nodownload"
-poster="/images/slideshow-thumb.png" >
-<source src="/videos/slideshow.mp4" type="video/mp4">
-Your browser does not support HTML5 videos.
+       controls
+       controlslist="nodownload"
+       poster="/images/slideshow-thumb.png">
+       <source src="/videos/slideshow.mp4" type="video/mp4">
 </video>
 
 # Recruiting Events and Permission Slip
@@ -55,18 +55,18 @@ If you would like to come to see us, please bring this completed [permission sli
 * Friday Nights – Our scouts want to hang out even outside of troop meetings.  We host Friday Night Minecraft Nights online and we’re hoping to get back to hosting our Friday Nights at The Shack where we hang out, play games, and just have fun – no scouting required.
 
 <style>
-\#gallery {
+#gallery {
 display:flex;
 flex-direction:row;
 }
-\#gallery figure {
+#gallery figure {
 margin: 8px;
 text-align: center;
 }
-\#gallery figcaption {
+#gallery figcaption {
 margin-top: 0.5em;
 }
-\#gallery figcaption h4 {
+#gallery figcaption h4 {
 margin-top: 0;
 font-weight: bold;
 }
