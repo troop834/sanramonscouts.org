@@ -40,7 +40,7 @@ To find out more about our recruiting events, visit our
 information about how to join San Ramon Boy Scout Troop 834, email
 newscout@bsatroop834.org.
 
-### [Permission Slip](https://sanramonscouts.org/join/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip")
+### [Permission Slip](https://sanramonscouts.org/recruiting-events/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip")
 
 If you would like to come to see us, please bring this completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) (and a parent!) with you.
 
