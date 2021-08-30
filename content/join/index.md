@@ -42,7 +42,7 @@ newscout@bsatroop834.org.
 
 ### [Permission Slip](https://sanramonscouts.org/recruiting-events/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip")
 
-If you would like to come to see us, please bring this completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) (and a parent!) with you.
+If you would like to come to see us, please bring this completed [permission slip](../recruiting-events/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) (and a parent!) with you.
 
 # Here’s How Troop 834 Is Different From Other Troops:
 
