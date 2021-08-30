@@ -28,21 +28,21 @@ aliases:
 <video alt="Slideshow of pictures from Troop 834 outings and activities"
 controls
 controlslist="nodownload"
-poster="slideshow-thumb.png" >
-<source src="slideshow.mp4" type="video/mp4">
+poster="/images/slideshow-thumb.png" >
+<source src="/videos/slideshow.mp4" type="video/mp4">
 Your browser does not support HTML5 videos.
 </video>
 
 # Recruiting Events and Permission Slip
 
 To find out more about our recruiting events, visit our
-[Recruiting Events]({{< relref "/recruiting-events/index.md" >}}) page. Or, for more
+[Recruiting Events]({{< relref "recruiting-events.md" >}}) page. Or, for more
 information about how to join San Ramon Boy Scout Troop 834, email
 newscout@bsatroop834.org.
 
-### [Permission Slip](https://sanramonscouts.org/recruiting-events/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip")
+### Permission Slip
 
-If you would like to come to see us, please bring this completed [permission slip](https://sanramonscouts.org/recruiting-events/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip") (and a parent!) with you.
+If you would like to come to see us, please bring this completed [permission slip](/files/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip") (and a parent!) with you.
 
 # Here’s How Troop 834 Is Different From Other Troops:
 
@@ -74,6 +74,6 @@ font-weight: bold;
 
 <br>
 <div id="gallery">
-{{< figure alt="Scouts learning to paddle standing next to their canoes" src="paddle-training.jpg" title="Paddle training" >}}
-{{< figure alt="Scouts canoeing on a lake" src="canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
+{{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
+{{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
 </div>

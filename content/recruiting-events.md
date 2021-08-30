@@ -28,7 +28,7 @@ This Fall, we also have **special meetings** planned for new boys to check out T
 ### Permission Slip
 
 If you would like to come to one of the above meetings, please bring this
-completed [permission slip](Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) with you.
+completed [permission slip](/files/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf) with you.
 
 ## Adult Required
 

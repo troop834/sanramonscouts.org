@@ -38,13 +38,13 @@ header_tagline_paragraph: "    "
 		<img src="/images/troop834.png" alt="Troop 834 logo"></img>
 		<span>
 			Looking for more information about San Ramon Boy Scout Troop 834?
-			<a href="{{< ref "/join/index.md" >}}">Click here</a>.
+			<a href="{{< relref "join.md" >}}">Click here</a>.
 		</span>
 	</div>
 	<div class="rowfb">
 		<span>
 			Looking for information about our Christmas Tree Recycling Program?
-			<a href="{{< ref "/tree-recycling/index.md" >}}">Click here</a>.
+			<a href="{{< relref "tree-recycling.md" >}}">Click here</a>.
 		</span>
 		<img src="/images/treerecycling.jpg" alt="Troop 834 logo"></img>
 	</div>
