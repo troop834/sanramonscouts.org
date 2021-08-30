@@ -25,7 +25,6 @@ aliases:
 - "/join-troop-834/"
 
 ---
-
 <video alt="Slideshow of pictures from Troop 834 outings and activities"
        controls
        controlslist="nodownload"
@@ -56,24 +55,24 @@ If you would like to come to see us, please bring this completed [permission sli
 
 <style>
 #gallery {
-display:flex;
-flex-direction:row;
+	display: flex;
+	flex-direction: row;
 }
 #gallery figure {
-margin: 8px;
-text-align: center;
+	margin: 8px;
+	text-align: center;
 }
 #gallery figcaption {
-margin-top: 0.5em;
+	margin-top: 0.5em;
 }
 #gallery figcaption h4 {
-margin-top: 0;
-font-weight: bold;
+	margin-top: 0;
+	font-weight: bold;
 }
 </style>
 
 <br>
 <div id="gallery">
-{{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
-{{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
+	{{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
+	{{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
 </div>
