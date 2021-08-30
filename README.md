@@ -1,5 +1,4 @@
 # sanramonscouts.org
----
 
 ## Architecture
 
