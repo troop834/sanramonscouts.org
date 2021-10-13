@@ -25,6 +25,8 @@ This Fall, we also have **special meetings** planned for new boys to check out T
 * September 14 @ 6:30PM… Ultimate Frisbee @ San Ramon Central Park. Meet at the Amphitheater
 * September 28 @ 7PM… Mini Golf! Meet at The Shack!
 
+Missed these?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
+
 ### Permission Slip
 
 If you would like to come to one of the above meetings, please bring this
