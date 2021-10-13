@@ -18,7 +18,7 @@ welcome to visit as well!
 
 ## Special Recruiting Meetings
 
-This Fall, we also have **special meetings** planned for new boys to check out Troop 834:
+This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
 * Tuesday, November 9, 2021 @ 7PM… Scavenger Hunt - Get to know our scouts and have fun in our unique meeting space, "The Shack".
 * Saturday, December 11, 2021 @ 1PM… Cub Scout Hike. Details to follow.
