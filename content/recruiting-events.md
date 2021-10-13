@@ -20,12 +20,12 @@ welcome to visit as well!
 
 This Fall, we also have **special meetings** planned for new boys to check out Troop 834:
 
-* August 17 @ 6:30PM… Swim Party at 2401 Palmira Pl, San Ramon, CA 94583
-* August 31 @ 6:30PM… Hike at Las Trampas Regional Park. Meet at the parking lot at the very end of Bollinger Canyon Road.
-* September 14 @ 6:30PM… Ultimate Frisbee @ San Ramon Central Park. Meet at the Amphitheater
-* September 28 @ 7PM… Mini Golf! Meet at The Shack!
+* Tuesday, November 9, 2021 @ 7PM… Scavenger Hunt - Get to know our scouts and have fun in our unique meeting space, "The Shack".
+* Saturday, December 11, 2021 @ 1PM… Cub Scout Hike. Details to follow.
+* Tuesday, January 11, 2022 @ 7PM… Campfire Tueday - Is there a better way to bond than over a campfire?
+* Tuesday January 11, 2022 @ 7PM...Parent Night - Parents have questions and we have answers.  The Cubs will work with the Boy Scouts while leadership helps the adults learn what's next.
 
-Missed these?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
+Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
 
 ### Permission Slip
 
