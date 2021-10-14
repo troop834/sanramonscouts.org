@@ -30,7 +30,7 @@ Can't make it or missed these dates?  Don't worry!  You can stop by our troop at
 ### Permission Slip
 
 If you would like to come to one of the above meetings, please bring this
-completed [permission slip](/troop-recruiting-invite-2021-w-permission.docx "Permission Slip") with you.
+completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Permission Slip") with you.
 
 ## Adult Required
 
