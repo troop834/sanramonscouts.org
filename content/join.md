@@ -41,7 +41,7 @@ newscout@bsatroop834.org.
 
 ### Permission Slip
 
-If you would like to come to see us, please bring this completed [permission slip](/troop-recruiting-invite-2021-w-permission.docx "Recruiting Event Permission Slip") (and a parent!) with you.
+If you would like to come to see us, please bring this completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Recruiting Event Permission Slip") (and a parent!) with you.
 
 # Here’s How Troop 834 Is Different From Other Troops:
 
