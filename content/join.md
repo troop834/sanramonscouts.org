@@ -26,10 +26,10 @@ aliases:
 
 ---
 <video alt="Slideshow of pictures from Troop 834 outings and activities"
-       controls
-       controlslist="nodownload"
-       poster="/images/slideshow-thumb.png">
-       <source src="/videos/slideshow.mp4" type="video/mp4">
+controls
+controlslist="nodownload"
+poster="/images/slideshow-thumb.png">
+<source src="/videos/slideshow.mp4" type="video/mp4">
 </video>
 
 # Recruiting Events and Permission Slip
@@ -41,7 +41,7 @@ newscout@bsatroop834.org.
 
 ### Permission Slip
 
-If you would like to come to see us, please bring this completed [permission slip](/files/Troop834_Fall2021_RecruitingEvents_PermissionSlip.pdf "Recruiting Event Permission Slip") (and a parent!) with you.
+If you would like to come to see us, please bring this completed [permission slip](/troop-recruiting-invite-2021-w-permission.docx "Recruiting Event Permission Slip") (and a parent!) with you.
 
 # Here’s How Troop 834 Is Different From Other Troops:
 
@@ -54,25 +54,25 @@ If you would like to come to see us, please bring this completed [permission sli
 * Friday Nights – Our scouts want to hang out even outside of troop meetings.  We host Friday Night Minecraft Nights online and we’re hoping to get back to hosting our Friday Nights at The Shack where we hang out, play games, and just have fun – no scouting required.
 
 <style>
-#gallery {
-	display: flex;
-	flex-direction: row;
+\#gallery {
+display: flex;
+flex-direction: row;
 }
-#gallery figure {
-	margin: 8px;
-	text-align: center;
+\#gallery figure {
+margin: 8px;
+text-align: center;
 }
-#gallery figcaption {
-	margin-top: 0.5em;
+\#gallery figcaption {
+margin-top: 0.5em;
 }
-#gallery figcaption h4 {
-	margin-top: 0;
-	font-weight: bold;
+\#gallery figcaption h4 {
+margin-top: 0;
+font-weight: bold;
 }
 </style>
 
 <br>
 <div id="gallery">
-	{{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
-	{{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
+{{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
+{{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
 </div>
