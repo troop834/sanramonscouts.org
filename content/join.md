@@ -53,7 +53,7 @@ If you would like to come to see us, please bring this completed [permission sli
 * Wolfeboro…Week-long summer camp near Arnold is the scouts’ favorite outing of the year!
 * Friday Nights – Our scouts want to hang out even outside of troop meetings.  We host Friday Night Minecraft Nights online and we’re hoping to get back to hosting our Friday Nights at The Shack where we hang out, play games, and just have fun – no scouting required.
 
-Want even more info?  Check out our troop website at [www.BSATroop834.org](www.BSATroop834.org "San Ramon Troop 834 Home Page").
+<br>Want even more info?  Check out our troop website at [www.BSATroop834.org](www.BSATroop834.org "San Ramon Troop 834 Home Page").
 
 <style>
 \#gallery {
