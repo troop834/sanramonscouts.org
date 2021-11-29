@@ -25,11 +25,9 @@ aliases:
 - "/join-troop-834/"
 
 ---
-<video alt="Slideshow of pictures from Troop 834 outings and activities"
-controls
-controlslist="nodownload"
-poster="/images/slideshow-thumb.png">
-<source src="/videos/slideshow.mp4" type="video/mp4">
+
+<video alt="Slideshow of pictures from Troop 834 outings and activities" controls controlslist="nodownload" poster="/images/slideshow-thumb.png">
+	<source src="/videos/slideshow.mp4" type="video/mp4">
 </video>
 
 # Recruiting Events and Permission Slip
