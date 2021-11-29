@@ -55,24 +55,6 @@ If you would like to come to see us, please bring this completed [permission sli
 
 <br>Want even more info?  Check out our troop website at [www.BSATroop834.org](www.BSATroop834.org "San Ramon Troop 834 Home Page").
 
-<style>
-\#gallery {
-display: flex;
-flex-direction: row;
-}
-\#gallery figure {
-margin: 8px;
-text-align: center;
-}
-\#gallery figcaption {
-margin-top: 0.5em;
-}
-\#gallery figcaption h4 {
-margin-top: 0;
-font-weight: bold;
-}
-</style>
-
 <br>
 <div id="gallery">
 {{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}

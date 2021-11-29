@@ -1,0 +1,17 @@
+#gallery {
+	display: flex;
+	flex-direction: row;
+}
+
+#gallery figure {
+	margin: 8px;
+	text-align: center;
+}
+
+figcaption {
+	margin-top: 0.5em;
+}
+
+figcaption h4 {
+	font-weight: bold;
+}
