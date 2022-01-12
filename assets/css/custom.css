@@ -23,3 +23,7 @@ figcaption {
 figcaption h4 {
 	font-weight: bold;
 }
+
+.fade {
+	opacity: 50%;
+}

@@ -20,10 +20,10 @@ welcome to visit as well!
 
 This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
-* Tuesday, November 9, 2021 @ 7PM… Scavenger Hunt - Get to know our scouts and have fun in our unique meeting space, "The Shack".
-* Saturday, December 11, 2021 @ 1PM… Cub Scout Hike. Details to follow.
-* Tuesday, January 11, 2022 @ 7PM… Campfire Tueday - Is there a better way to bond than over a campfire?
-* Tuesday January 11 is also Parent Night - Parents have questions and we have answers.  The Cubs will work with the Boy Scouts while leadership helps the adults learn what's next.
+* <span class=fade>Tuesday, November 9, 2021 @ 7PM... Scavenger Hunt - Get to know our scouts and have fun in our unique meeting space, "The Shack".</span>
+* <span class=fade>Saturday, December 11, 2021 @ 1PM... Cub Scout Hike. Details to follow.</span>
+* Tuesday, January 11, 2022 @ 7PM... Campfire — Is there a better way to bond than over a campfire?
+  * Tuesday, January 11 is also Parent Night - Parents have questions and we have answers.  The Cubs will work with the Boy Scouts while leadership helps the adults learn what's next.
 
 Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
 
