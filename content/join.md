@@ -55,7 +55,7 @@ Want even more info?  Check out our troop website at
 [BSATroop834.org](https://bsatroop834.org "San Ramon Troop 834 Home Page").
 
 <br>
-<div id="gallery">
+<div class="gallery">
 {{< figure alt="Scouts learning to paddle standing next to their canoes" src="/images/paddle-training.jpg" title="Paddle training" >}}
 {{< figure alt="Scouts canoeing on a lake" src="/images/canoeing.jpg" title="Canoeing on Lake Annabel at Bishop Ranch" caption="COVID can’t stop Troop 834!" >}}
 </div>

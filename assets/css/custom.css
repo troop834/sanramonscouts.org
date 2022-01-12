@@ -10,12 +10,12 @@ figcaption {
 	@apply mt-1 mb-4;
 }
 
-#gallery {
+div.gallery {
 	display: flex;
 	flex-direction: row;
 }
 
-#gallery figure {
+div.gallery figure {
 	margin: 8px;
 	text-align: center;
 }
