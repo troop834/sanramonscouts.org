@@ -10,7 +10,7 @@ header_tagline_paragraph: We welcome new scouts at any time! There is no recruit
 
 ## Special Recruiting Meetings
 
-All of our special recruiting meetings have passed.  However, Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year. Please see below.
+All of our special recruiting meetings have passed.  However, Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year.
 
 <!--This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
