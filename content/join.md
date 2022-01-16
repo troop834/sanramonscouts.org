@@ -25,9 +25,8 @@ aliases:
 - "/join-troop-834/"
 
 ---
-
 <video alt="Slideshow of pictures from Troop 834 outings and activities" controls controlslist="nodownload" poster="/images/slideshow-thumb.png">
-	<source src="/videos/slideshow.mp4" type="video/mp4">
+<source src="/videos/slideshow.mp4" type="video/mp4">
 </video>
 
 # Recruiting Events and Permission Slip
@@ -37,9 +36,11 @@ To find out more about our recruiting events, visit our
 information about how to join San Ramon Boy Scout Troop 834, email
 newscout@bsatroop834.org.
 
+<!--
+
 ### Permission Slip
 
-If you would like to come to see us, please bring this completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Recruiting Event Permission Slip") (and a parent!) with you.
+If you would like to come to see us, please bring this completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Recruiting Event Permission Slip") (and a parent!) with you. -->
 
 # Here’s How Troop 834 Is Different From Other Troops:
 
