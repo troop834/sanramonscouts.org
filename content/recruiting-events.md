@@ -29,7 +29,9 @@ Can't make it or missed these dates?  Don't worry!  You can stop by our troop at
 
 Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack. Please contact Alec Hurd at newscout@bsatroop834.org ahead of your visit.
 
-### <!--Permission Slip
+<!--
+
+### Permission Slip
 
 If you would like to come to one of the above meetings, please bring this
 completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Permission Slip") with you. -->
