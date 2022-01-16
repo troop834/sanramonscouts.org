@@ -28,7 +28,7 @@ completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Perm
 
 ## Regular Meetings
 
-You are always welcome to check out our regular troop meetings from 7:00-8:30 PM on Tuesdays. Just be sure to email and let us know when you'd like to come! Some meetings/events are **_not_** held at the Shack so please do contact us before coming out so that we can let you know if we will be there. Your parents are welcome to visit as well!
+You are always welcome to check out our regular troop meetings from 7:00-8:30 PM on Tuesdays. Just be sure to email and let us know when you'd like to come! Some meetings/events are **_not_** held at the Shack so please do contact us before coming out so that we can let you know if we will be there. Your parents should visit as well!
 
 ## Adult Required
 
