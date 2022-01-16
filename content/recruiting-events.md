@@ -18,19 +18,21 @@ welcome to visit as well!
 
 ## Special Recruiting Meetings
 
-This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
+<!--This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
 * <span class=fade>Tuesday, November 9, 2021 @ 7PM... Scavenger Hunt - Get to know our scouts and have fun in our unique meeting space, "The Shack".</span>
 * <span class=fade>Saturday, December 11, 2021 @ 1PM... Cub Scout Hike. Details to follow.</span>
 * Tuesday, January 11, 2022 @ 7PM... Campfire — Is there a better way to bond than over a campfire?
   * Tuesday, January 11 is also Parent Night - Parents have questions and we have answers.  The Cubs will work with the Boy Scouts while leadership helps the adults learn what's next.
 
-Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
+Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by. -->
 
-### Permission Slip
+Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack. Please contact Alec Hurd at newscout@bsatroop834.org ahead of your visit.
+
+### <!--Permission Slip
 
 If you would like to come to one of the above meetings, please bring this
-completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Permission Slip") with you.
+completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Permission Slip") with you. -->
 
 ## Adult Required
 
