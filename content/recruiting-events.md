@@ -10,7 +10,7 @@ header_tagline_paragraph: We welcome new scouts at any time! There is no recruit
 
 ## Special Recruiting Meetings
 
-All of our special recruiting meetings have passed.
+All of our special recruiting meetings have passed.  However, Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year. Please see below.
 
 <!--This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
@@ -19,11 +19,7 @@ All of our special recruiting meetings have passed.
 * Tuesday, January 11, 2022 @ 7PM... Campfire — Is there a better way to bond than over a campfire?
   * Tuesday, January 11 is also Parent Night - Parents have questions and we have answers.  The Cubs will work with the Boy Scouts while leadership helps the adults learn what's next.
 
-Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by. -->
-
-Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year. Please see below.
-
-<!--
+Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by. 
 
 ### Permission Slip
 
