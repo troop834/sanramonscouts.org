@@ -21,7 +21,7 @@ All of our special recruiting meetings have passed.
 
 Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by. -->
 
-Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack. Please contact Alec Hurd at newscout@bsatroop834.org ahead of your visit.
+Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year. Please see below.
 
 <!--
 
