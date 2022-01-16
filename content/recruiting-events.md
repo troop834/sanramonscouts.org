@@ -8,15 +8,9 @@ header_tagline_paragraph: We welcome new scouts at any time! There is no recruit
 ---
 <h1 id="come-check-us-out" style="font-weight:normal;">Come check us out!</h1>
 
-## Regular Meetings
-
-You are always welcome to check out our regular troop meetings from 7:00-8:30
-PM on Tuesdays. Just be sure to email and let us know when you'd like to come!
-Some meetings/events are **_not_** held at the Shack so please do contact us before
-coming out so that we can let you know if we will be there. Your parents are
-welcome to visit as well!
-
 ## Special Recruiting Meetings
+
+All of our special recruiting meetings have passed.
 
 <!--This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
@@ -35,6 +29,10 @@ Troop 834 welcomes boys and their parents who are interested in visiting during 
 
 If you would like to come to one of the above meetings, please bring this
 completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Permission Slip") with you. -->
+
+## Regular Meetings
+
+You are always welcome to check out our regular troop meetings from 7:00-8:30 PM on Tuesdays. Just be sure to email and let us know when you'd like to come! Some meetings/events are **_not_** held at the Shack so please do contact us before coming out so that we can let you know if we will be there. Your parents are welcome to visit as well!
 
 ## Adult Required
 
