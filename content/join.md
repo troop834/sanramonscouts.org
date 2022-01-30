@@ -60,9 +60,9 @@ To find out more about our recruiting events, visit our [Recruiting Events]({{< 
 
 **Where we meet**: “The Shack,” 28 Holly Court – Far **west** end of Bollinger Canyon Road in San Ramon. It’s a bit of a drive… but it’s worth it!
 
-**Directions**: Take Bollinger Canyon Rd. west of Crow Canyon Rd. towards Las Trampas Park & Stables. After the 25 MPH sign, turn right at the “Fire Danger” sign onto Holly Ct (3.3 miles from Crow Canyon). If you’ve gone past the “Fire Danger” sign, you’ve gone too far!  Here's a picture of the sign:
+**Directions**: Take Bollinger Canyon Rd. west of Crow Canyon Rd. towards Las Trampas Park & Stables. After the 25 MPH sign, turn right at the “Fire Danger” sign onto Holly Ct (3.3 miles from Crow Canyon). If you’ve gone past the “Fire Danger” sign, you’ve gone too far!  
 
-![](https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=-v_nEB_SeGaPY_Q0PuNAgA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=45.495808&pitch=0&thumbfov=100)
+![](/driveway.jpg)
 
 # More Info
 
