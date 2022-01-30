@@ -60,11 +60,9 @@ To find out more about our recruiting events, visit our [Recruiting Events]({{< 
 
 **Where we meet**: “The Shack,” 28 Holly Court – Far **west** end of Bollinger Canyon Road in San Ramon. It’s a bit of a drive… but it’s worth it!
 
-**Directions**: Take Bollinger Canyon Rd. west of Crow Canyon Rd. towards Las Trampas Park & Stables. After the 25 MPH sign, turn right at the “Fire Danger” sign onto Holly Ct (3.3 miles from Crow Canyon). If you’ve gone past the “Fire Danger” sign, you’ve gone too far!  
+**Directions**: Take Bollinger Canyon Rd. west of Crow Canyon Rd. towards Las Trampas Park & Stables. After the 25 MPH sign, turn right at the “Fire Danger” sign onto Holly Ct (3.3 miles from Crow Canyon). If you’ve gone past the “Fire Danger” sign, you’ve gone too far!
 
-<a href="[https://www.google.com/maps/place/28+Holly+Ct,+San+Ramon,+CA+94583/@37.8059749,-122.0360066,3a,75y,54.07h,92.72t/data=](https://www.google.com/maps/place/28+Holly+Ct,+San+Ramon,+CA+94583/@37.8059749,-122.0360066,3a,75y,54.07h,92.72t/data= "https://www.google.com/maps/place/28+Holly+Ct,+San+Ramon,+CA+94583/@37.8059749,-122.0360066,3a,75y,54.07h,92.72t/data=")!3m6!1e1!3m4!1sq4gbRvh0LhkWrLYTUSlS0w!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0x808f8c86fdafcca7:0xf4904a616dc93b49!2s28+Holly+Ct,+San+Ramon,+CA+94583!3b1!8m2!3d37.8059636!4d-122.0356051!3m4!1s0x808f8c86fdafcca7:0xf4904a616dc93b49!8m2!3d37.8059636!4d-122.0356051">
-
-![](/driveway.jpg "Directions to San Ramon Troop 834")</a>
+<a href="https://www.google.com/maps/place/28+Holly+Ct,+San+Ramon,+CA+94583/@37.8058397,-122.035854,3a,75y,352.05h,89.84t/data=!3m6!1e1!3m4!1s90PetW70hKE6IUuHUGdXYA!2e0!7i16384!8i8192!4m13!1m7!3m6!1s0x808f8c86fdafcca7:0xf4904a616dc93b49!2s28+Holly+Ct,+San+Ramon,+CA+94583!3b1!8m2!3d37.8059636!4d-122.0356051!3m4!1s0x808f8c86fdafcca7:0xf4904a616dc93b49!8m2!3d37.8059636!4d-122.0356051">![](/driveway.png)<.a>
 
 # More Info
 
