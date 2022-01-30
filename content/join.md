@@ -56,6 +56,12 @@ To find out more about our recruiting events, visit our [Recruiting Events]({{< 
 * Wolfeboro…Week-long summer camp near Arnold is the scouts’ favorite outing of the year!
 * Friday Nights – Our scouts want to hang out even outside of troop meetings.  We host Friday Night Minecraft Nights online and we’re hoping to get back to hosting our Friday Nights at The Shack where we hang out, play games, and just have fun – no scouting required.
 
+# Location and Directions
+
+**Where we meet**: “The Shack,” 28 Holly Court – Far **west** end of Bollinger Canyon Road in San Ramon. It’s a bit of a drive… but it’s worth it!
+
+**Directions**: Take Bollinger Canyon Rd. west of Crow Canyon Rd. towards Las Trampas Park & Stables. After the 25 MPH sign, turn right at the “Fire Danger” sign onto Holly Ct (3.3 miles from Crow Canyon). If you’ve gone past the “Fire Danger” sign, you’ve gone too far!
+
 Want even more info?  Check out our troop website at
 [BSATroop834.org](https://bsatroop834.org "San Ramon Troop 834 Home Page").
 
