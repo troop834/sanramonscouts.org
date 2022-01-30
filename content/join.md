@@ -62,8 +62,9 @@ To find out more about our recruiting events, visit our [Recruiting Events]({{< 
 
 **Directions**: Take Bollinger Canyon Rd. west of Crow Canyon Rd. towards Las Trampas Park & Stables. After the 25 MPH sign, turn right at the “Fire Danger” sign onto Holly Ct (3.3 miles from Crow Canyon). If you’ve gone past the “Fire Danger” sign, you’ve gone too far!
 
-Want even more info?  Check out our troop website at
-[BSATroop834.org](https://bsatroop834.org "San Ramon Troop 834 Home Page").
+# More Info
+
+Want even more info?  Check out our troop website at [BSATroop834.org](https://bsatroop834.org "San Ramon Troop 834 Home Page").
 
 <br>
 <div class="gallery">
