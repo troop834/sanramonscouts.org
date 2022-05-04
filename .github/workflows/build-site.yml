@@ -1,0 +1,54 @@
+name: Build site
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  build:
+    name: Build and Deploy
+    runs-on: ubuntu-20.04
+    # skip job if commit message contains '[skip build]'
+    if: "!contains(github.event.head_commit.message, '[skip build]')"
+
+    # don't run multiple instances of this workflow at once. only the latest
+    # one gets used.
+    concurrency:
+      group: ${{ github.workflow }}
+
+    steps:
+
+      - name: Checkout files
+        uses: actions/checkout@v2
+        with:
+          # checkout submodules
+          submodules: true
+          # only fetch latest commit
+          fetch-depth: 1
+          # download LFS objects
+          lfs: true
+
+      - name: Install NPM packages
+        run: npm install
+
+      - name: Set up Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.87.0'
+          # support NodeJS/NPM
+          extended: true
+
+      - name: Build
+        run: hugo --minify --gc --cleanDestinationDir -e production
+
+      - name: Publish
+        run: |
+          eval $(ssh-agent)
+          ssh-add - <<< "$SSH_KEY"
+          echo "${{ secrets.SSH_SERVER_HOST_KEY }}" > /tmp/known_hosts
+          rsync -Pa --delete public/ ${{ secrets.SSH_ENTITY }}:${{ secrets.SERVER_SITE_ROOT }}
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          RSYNC_RSH: "ssh -o UserKnownHostsFile=/tmp/known_hosts -o StrictHostKeyChecking=yes -o UpdateHostKeys=no"
