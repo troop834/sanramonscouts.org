@@ -1,8 +1,8 @@
 ---
-title: 2022 Christmas Tree Recycling
+title: 2023 Boy Scout Christmas Tree Recycling
 description: Christmas tree pickup & recycling program in San Ramon, CA. Hosted by
   local Boy Scout troops.
-header_brand: 2022 Christmas Tree Recycling
+header_brand: 2023 Boy Scout Christmas Tree Recycling
 header_tagline_paragraph: Hosted by Troop 834 & Troop 874
 
 ---
