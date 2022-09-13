@@ -21,6 +21,8 @@ garlands.  We cannot take artificial trees or live trees with flocking.
 
 <iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true")" width="640" height="1414" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+\-->
+
 ## Donate using PayPal
 
 Your donation helps fund our tree recycling program and other troop activities.
