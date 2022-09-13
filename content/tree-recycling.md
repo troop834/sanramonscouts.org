@@ -13,7 +13,7 @@ header_tagline_paragraph: Hosted by Troop 834 & Troop 874
 Thank you for your interest in our tree recycling program. We will be picking up trees on **Saturday, January 7, 2023**. Please fill out the form below to let us
 know that you would like your tree picked up.
 
-On pickup day, please leave your optional $10 donation under your mat and leave
+On pickup day, please leave your $10 donation under your mat and leave
 your tree at the curb.  Trees must be free of ornaments, tinsel, lights, and
 garlands.  We cannot take artificial trees or live trees with flocking.
 
