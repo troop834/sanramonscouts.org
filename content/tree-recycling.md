@@ -17,7 +17,7 @@ On pickup day, please leave your $10 donation under your mat and leave
 your tree at the curb.  Trees must be free of ornaments, tinsel, lights, and
 garlands.  We cannot take artificial trees or live trees with flocking.
 
-## Tree pickup form
+## Reservation form
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true" width="640" height="1414" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
