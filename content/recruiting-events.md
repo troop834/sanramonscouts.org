@@ -1,5 +1,5 @@
 ---
-title: Troop 834 2021-22 Recruiting Events
+title: Troop 834 2022-23 Recruiting Events
 date: 2021-08-10T15:47:57.000-07:00
 header_brand: Troop 834<br>2021-22 Recruiting Events
 header_tagline_paragraph: We welcome new scouts at any time! There is no recruiting
@@ -14,17 +14,16 @@ All of our special recruiting meetings have passed.  However, Troop 834 welcomes
 
 <!--This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
-* <span class=fade>Tuesday, November 9, 2021 @ 7PM... Scavenger Hunt - Get to know our scouts and have fun in our unique meeting space, "The Shack".</span>
-* <span class=fade>Saturday, December 11, 2021 @ 1PM... Cub Scout Hike. Details to follow.</span>
-* Tuesday, January 11, 2022 @ 7PM... Campfire — Is there a better way to bond than over a campfire?
-  * Tuesday, January 11 is also Parent Night - Parents have questions and we have answers.  The Cubs will work with the Boy Scouts while leadership helps the adults learn what's next.
+* <span class=fade>TuesdaySunday, November 13 - Come join us for a mini backpacking event at Las Trampas.</span>
+* <span class=fade>TuesdayTuesday, December 13 - Game Night at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)</fade>
+* <span class=fade>TuesdayTuesday, January 17 - Campfire at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)</span>
+* <span class=fade>TuesdayTuesday, February 14 - Campfire at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)</span>
 
-Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by. 
+Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
 
 ### Permission Slip
 
-If you would like to come to one of the above meetings, please bring this
-completed [permission slip](/troop-recruiting-invite-2021-w-permission.pdf "Permission Slip") with you. -->
+If you would like to come to one of the above meetings, please bring this completed [permission slip](https://drive.google.com/file/d/1fBkzBuxIMfIprLwBjcdRPRiCMxd7mA_Y/view?usp=sharing "Permission Slip") with you. -->
 
 ## Regular Meetings
 
