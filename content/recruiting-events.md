@@ -1,6 +1,6 @@
 ---
 title: Troop 834 2022-23 Recruiting Events
-date: 2021-08-10T15:47:57.000-07:00
+date: 2022-10-20T07:00:00+00:00
 header_brand: Troop 834<br>2022-23 Recruiting Events
 header_tagline_paragraph: We welcome new scouts at any time! There is no recruiting
   deadline and previous scouting experience is not required.
