@@ -10,9 +10,9 @@ header_tagline_paragraph: We welcome new scouts at any time! There is no recruit
 
 ## Special Recruiting Meetings
 
-All of our special recruiting meetings have passed.  However, Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year.
+<!--All of our special recruiting meetings have passed.  However, Troop 834 welcomes boys and their parents who are interested in visiting during our regular Tuesday night meetings at the Shack at any point in the year. -->
 
-<!--This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
+This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
 * <span class=fade>TuesdaySunday, November 13 - Come join us for a mini backpacking event at Las Trampas.</span>
 * <span class=fade>TuesdayTuesday, December 13 - Game Night at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)</fade>
@@ -23,7 +23,7 @@ Can't make it or missed these dates?  Don't worry!  You can stop by our troop at
 
 ### Permission Slip
 
-If you would like to come to one of the above meetings, please bring this completed [permission slip](https://drive.google.com/file/d/1fBkzBuxIMfIprLwBjcdRPRiCMxd7mA_Y/view?usp=sharing "Permission Slip") with you. -->
+If you would like to come to one of the above meetings, please bring this completed [permission slip](https://drive.google.com/file/d/1fBkzBuxIMfIprLwBjcdRPRiCMxd7mA_Y/view?usp=sharing "Permission Slip") with you.
 
 ## Regular Meetings
 
