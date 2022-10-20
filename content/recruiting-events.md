@@ -14,10 +14,10 @@ header_tagline_paragraph: We welcome new scouts at any time! There is no recruit
 
 This Fall/Winter, we also have **special meetings** planned for new boys to check out Troop 834:
 
-* Sunday, November 13 - Come join us for a mini backpacking event at Las Trampas.
-* Tuesday, December 13 - Game Night at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)
-* Tuesday, January 17 - Campfire at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)
-* Tuesday, February 14 - Campfire at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)
+* Sunday, November 13, 2022 - Come join us for a mini backpacking event at Las Trampas.
+* Tuesday, December 13, 2022 - Game Night at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)
+* Tuesday, January 17, 2023 - Campfire at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)
+* Tuesday, February 14, 2023 - Campfire at [The Shack](https://sites.google.com/bsatroop834.org/home/about-834/location-and-directions?authuser=0)
 
 Can't make it or missed these dates?  Don't worry!  You can stop by our troop at any time.  Just email newscout@bsatroop834.org to let us know that you'd like to come by.
 
