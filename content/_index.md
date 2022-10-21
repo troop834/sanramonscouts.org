@@ -9,7 +9,7 @@ header_tagline_paragraph: "    "
 
 ---
 <style>
-\#mainbox {
+#mainbox {
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -32,4 +32,4 @@ font-size: 20pt;
 }
 </style>
 
-<div id="mainbox"> <div class="rowfb"> <img src="/images/troop834.png" alt="Troop 834 logo"></img> <span> Looking for more information about San Ramon Boy Scout Troop 834? <a href="[https://sites.google.com/bsatroop834.org/home/about-834/how-we-differ](https://sites.google.com/bsatroop834.org/home/about-834/how-we-differ?authuser=0 "https://sites.google.com/bsatroop834.org/home/about-834/how-we-differ?authuser=0")">Click here</a>. </span> </div> <div class="rowfb"> <span> Looking for information about our Christmas Tree Recycling Program? <a href="{{< relref "tree-recycling.md" >}}">Click here</a>. </span> <img src="/images/treerecycling.jpg" alt="Troop 834 logo"></img> </div> </div>
+<div id="mainbox"> <div class="rowfb"> <img src="/images/troop834.png" alt="Troop 834 logo"></img> <span> Looking for more information about San Ramon Boy Scout Troop 834? <a href="https://www.bsatroop834.org/about-834/how-we-differ">Click here</a>. </span> </div> <div class="rowfb"> <span> Looking for information about our Christmas Tree Recycling Program? <a href="{{< relref "tree-recycling.md" >}}">Click here</a>. </span> <img src="/images/treerecycling.jpg" alt="Troop 834 logo"></img> </div> </div>
