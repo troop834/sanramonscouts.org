@@ -8,9 +8,9 @@ header_tagline_paragraph: Hosted by Troop 834 & Troop 874
 ---
 ## Information
 
-<!--Thank you for your interest in our tree recycling program.  Our 2022 pickup is complete.  Please check back again next year.  If your tree was picked up and/or you'd like to donate to Boy Scouts, please use the Donate button below. -->
+Thank you for your interest in our tree recycling program.  Our 2022 reservation period has ended.  Please check back again next year.  If your tree was picked up and/or you'd like to donate to Boy Scouts, please use the Donate button below.
 
-Thank you for your interest in our tree recycling program. We will be picking up trees on **Saturday, January 7, 2023**. Please fill out the form below to let us
+<!--Thank you for your interest in our tree recycling program. We will be picking up trees on **Saturday, January 7, 2023**. Please fill out the form below to let us
 know that you would like your tree picked up.
 
 On pickup day, please leave your $10 donation under your mat and leave
@@ -19,7 +19,7 @@ garlands.  We cannot take artificial trees or live trees with flocking.
 
 ## Reservation form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true" width="640" height="1414" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true" width="640" height="1414" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe> -->
 
 ## Donate using PayPal
 
