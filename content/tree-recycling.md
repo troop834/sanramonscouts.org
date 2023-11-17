@@ -1,25 +1,22 @@
 ---
-title: 2023 Boy Scout Christmas Tree Recycling
+title: 2024 Boy Scout Christmas Tree Recycling
 description: Christmas tree pickup & recycling program in San Ramon, CA. Hosted by
   local Boy Scout Troops 834 and 874.
-header_brand: 2023 Boy Scout Christmas Tree Recycling
+header_brand: 2024 Boy Scout Christmas Tree Recycling
 header_tagline_paragraph: Hosted by Troop 834 & Troop 874
 
 ---
 ## Information
 
-Thank you for your interest in our tree recycling program.  Our 2022 reservation period has ended.  Please check back again next year.  If your tree was picked up and/or you'd like to donate to Boy Scouts, please use the Donate button below.
+Thank you for recycling with the Boy Scouts of San Ramon! Please fill out the form below to reserve your pick-up.
 
-<!--Thank you for your interest in our tree recycling program. We will be picking up trees on **Saturday, January 7, 2023**. Please fill out the form below to let us
-know that you would like your tree picked up.
+Please leave your tree at the curb on Saturday, January 6th, 2024 by 8am and your $10 cash or check donation under your mat. Or, if you prefer, you can simply make your donation using the PayPal button below. Checks should be made payable to Boy Scouts of America. Your donation may be tax-deductible. Please consult with a tax professional.
 
-On pickup day, please leave your $10 donation under your mat and leave
-your tree at the curb.  Trees must be free of ornaments, tinsel, lights, and
-garlands.  We cannot take artificial trees or live trees with flocking.
+Remove all decorations. Flocked or fake trees cannot be accepted.
 
 ## Reservation form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeV_I8nyS7hRgQOT82oT2464vdDGIYJ52eKu0ly8os1Sllx7g/viewform?embedded=true" width="640" height="1414" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe> -->
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdw_PkrMW2o_9thq0v4CuMUKYrXIHh2XvNdh_SZVYBfJ-c85g/viewform?embedded=true" width="640" height="1414" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
 
 ## Donate using PayPal
 
