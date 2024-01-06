@@ -8,15 +8,13 @@ header_tagline_paragraph: Hosted by Troop 834 & Troop 874
 ---
 ## Information
 
-Thank you for recycling with the Boy Scouts of San Ramon! Please fill out the form below to reserve your pick-up.
+Thank you for your interest in our tree recycling program. The pickup process has ended for this year.
 
-Please leave your tree at the curb on Saturday, January 6th, 2024 by 8am and your $10 cash or check donation under your mat. Or, if you prefer, you can simply make your donation using the PayPal button below. Checks should be made payable to Boy Scouts of America. Your donation may be tax-deductible. Please consult with a tax professional.
-
-Remove all decorations. Flocked or fake trees cannot be accepted.
+Please check back later for next year's details.
 
 ## Reservation form
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdw_PkrMW2o_9thq0v4CuMUKYrXIHh2XvNdh_SZVYBfJ-c85g/viewform?embedded=true" width="640" height="1581" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes">Loading…</iframe>
+Reservations have ended for 2024.
 
 ## Donate using PayPal
 
